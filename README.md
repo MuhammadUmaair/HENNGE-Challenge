@@ -26,5 +26,6 @@ This repository includes solutions to challenges posed by HENNGE, demonstrating 
 Include instructions on how to get a copy of the project up and running on a local machine.
 
 ```bash
-git clone https://github.com/MuhammadUmaair/HENNGE-Challenge.git
+
+git clone [https://github.com/MuhammadUmaair/HENNGE-Challenge.git](https://github.com/MuhammadUmaair/HENNGE-Challenge.git)https://github.com/MuhammadUmaair/HENNGE-Challenge.git
 cd hennge-challenge
