@@ -86,6 +86,9 @@ print(passw.verify(passwz)): Verifies if the generated OTP (passwz) is valid at 
 This code essentially generates a one-time password (OTP) using TOTP based on a secret key and an email address. It then prints the generated OTP and checks its validity after a 5-second delay. The OTP is generated using a combination of the secret key and the email address, and it's validated against the current time.
 ```
 
+![image](https://github.com/MuhammadUmaair/HENNGE-Challenge/assets/104490047/e74f275d-f8f3-4070-a60f-9d4f452de742)
+
+
 
 
 ## Getting Started
