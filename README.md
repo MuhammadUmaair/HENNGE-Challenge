@@ -101,3 +101,11 @@ git clone https://github.com/MuhammadUmaair/HENNGE-Challenge.git
 cd hennge-challenge
 
 ```
+
+## Contributing
+
+If you'd like to contribute, fork the repository and create a pull request. Contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
