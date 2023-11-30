@@ -18,7 +18,6 @@ This repository includes solutions to challenges posed by HENNGE, demonstrating 
 
 1. [**Mission 1.py**](https://github.com/MuhammadUmaair/HENNGE-Challenge/blob/main/Mission1.py): Python script for computing the sum of squares of non-negative integers for multiple test cases.
 
-    ```
 ## sum_of_squares_non_negative(nums) Function:
 
 This function takes a list of integers (nums) as input.
@@ -40,7 +39,7 @@ Prints the result obtained from the sum_of_squares_non_negative() function for e
 
 This block ensures that the main() function is executed when the script is run directly (not when it's imported as a module).
 Overall, this script reads input data containing test cases, each consisting of a list of integers, computes the sum of squares of non-negative integers for each test case, and prints the result for each case.
-```
+
 ![image](https://github.com/MuhammadUmaair/HENNGE-Challenge/assets/104490047/e5229b27-54d3-4376-9689-a32f55e5b382)
 
 
@@ -48,7 +47,7 @@ Overall, this script reads input data containing test cases, each consisting of 
 2. [**Mission 3.py**](https://github.com/MuhammadUmaair/HENNGE-Challenge/blob/main/Mission3.py): 
 
 ## Imports:
-```
+
 import hashlib: Library for cryptographic hashing functions.
 import time: Provides various time-related functions.
 import base64: Deals with Base64 encoding and decoding.
@@ -83,10 +82,10 @@ Output:
 print(passwz): Prints the generated one-time password to the console.
 time.sleep(5): Pauses the program for 5 seconds.
 print(passw.verify(passwz)): Verifies if the generated OTP (passwz) is valid at the current time using the passw.verify(...) function. This line prints either True or False based on the OTP's validity.
-
-This code essentially generates a one-time password (OTP) using TOTP based on a secret key and an email address. It then prints the generated OTP and checks its validity after a 5-second delay. The OTP is generated using a combination of the secret key and the email address, and it's validated against the current time.
-
 ```
+This code essentially generates a one-time password (OTP) using TOTP based on a secret key and an email address. It then prints the generated OTP and checks its validity after a 5-second delay. The OTP is generated using a combination of the secret key and the email address, and it's validated against the current time.
+```
+
 
 
 ## Getting Started
