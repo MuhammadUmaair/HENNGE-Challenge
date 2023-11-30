@@ -16,7 +16,7 @@ This repository includes solutions to challenges posed by HENNGE, demonstrating 
 
 ## Solutions
 
-1. [**sum_of_squares_solution.py**](sum_of_squares_solution.py): Python script for computing the sum of squares of non-negative integers for multiple test cases.
+1. [**sum_of_squares_solution.py**](https://github.com/MuhammadUmaair/HENNGE-Challenge/blob/main/Mission1.py): Python script for computing the sum of squares of non-negative integers for multiple test cases.
 
    - Explain briefly what the script does.
    - Provide a code snippet or usage example.
